@@ -1,4 +1,4 @@
 # install
 $ npm install
 # run 
-$ node n url_folder  # imageCompressor
+$ node n url_folder
